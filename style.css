@@ -1,0 +1,101 @@
+.card {
+	padding-left: 10%;
+	padding-right: 100px;
+	background-color: #F6F6EF;
+	border: none;
+	color: black;
+	border-color: #F6F6EF;
+}
+
+.list {
+	background-color: #F6F6EF;
+}
+
+.pagetop {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	color: #222222;
+	margin-left: 50%;
+	
+}
+
+.logo {
+	width: 18px;
+    height: auto; 
+    border:1px white solid;
+    margin: 2px auto;
+    margin-left: 2px auto;
+}
+
+.title-bar {
+	background-color: #FF6600;
+	margin-top: 10px;
+	width: 100%;
+	height: auto;
+}
+
+.loging {
+
+}
+
+ol {
+	margin-right: 10px;
+}
+
+li {
+	color: #000000;
+	font-size: 10pt;
+	margin-top: 6px;
+}
+
+p {
+	color: #828282;
+	font-size: 7pt;
+}
+
+
+.more {
+	color: #000000;
+	margin-left: 50px;
+}
+
+
+.brak-list {
+      color: #828282;
+      margin: 4px;
+}
+
+.discription-list {
+	font-size: 10pt;
+	justify-content: center;
+	text-align: center;
+	padding: 7px;
+	color: black;
+	border-color: blue;
+}
+
+.line {
+	color: red;
+}
+
+
+.search {
+	margin-left: 78px;
+	margin-top: 20px;
+	color: #828282; 
+	font-size: 16px;
+}
+
+.bar {
+	height: 20px;
+	width: 150px;
+	margin-top: 20px;
+	color: #828282;
+	border: 1px solid #828282;
+	margin-bottom: 20px;
+}
+
+.footer {
+	border-top: 1.5px solid #FF6600; 
+}
+
